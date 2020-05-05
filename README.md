@@ -1,4 +1,5 @@
 # A solution for asynchronous while loops
+[![npm version](https://badge.fury.io/js/awaitwhile.svg)](https://badge.fury.io/js/awaitwhile)
 
 ## Usage
 
