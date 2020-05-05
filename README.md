@@ -4,7 +4,10 @@
 
 Native:
 ```
-while (conditional != key) { }
+while (conditional != key) { 
+    test()
+    jump() 
+}
 ```
 
 AwaitWhile:
